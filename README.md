@@ -6,6 +6,8 @@ This repository contains materials for SCAI-Sprint:
 
 - **`tp1.ipynb`** - TP1 (bonus): Optimization of Machine Learning Problems — gradient descent fundamentals, linear regression with PyTorch, neural networks, and CPU vs GPU benchmarking
 - **`tp2_competition.ipynb`** - TP2: Compete on ML-Arena — understand the Permuted MNIST competition, train agents locally, and deploy on the platform
+- **`tp3_classification.ipynb`** - TP3: Transfer Learning for Medical Image Classification
+- **`tp4_generation.ipynb`** - TP4: Generative Models — Face Generation with DCGAN
 - **`agents/`** - Example agent implementations (random baseline & linear classifier)
 
 ## Getting Started
@@ -14,6 +16,8 @@ Open the notebooks directly in Google Colab:
 
 - [TP1 - PyTorch Fundamentals (bonus)](https://colab.research.google.com/github/racousin/sprint/blob/main/tp1.ipynb)
 - [TP2 - Competition](https://colab.research.google.com/github/racousin/sprint/blob/main/tp2_competition.ipynb)
+- [TP3 - Medical Image Classification](https://colab.research.google.com/github/racousin/sprint/blob/main/tp3_classification.ipynb)
+- [TP4 - Face Generation with DCGAN](https://colab.research.google.com/github/racousin/sprint/blob/main/tp4_generation.ipynb)
 
 ## Competition
 
