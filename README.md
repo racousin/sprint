@@ -1,8 +1,8 @@
-# 2026 Sprint - AI for Sciences
+# 2026 Sprint
 
 ## Content
 
-This repository contains materials for the AI for Sciences Sprint:
+This repository contains materials for SCAI-Sprint:
 
 - **`tp1.ipynb`** - Optimization of Machine Learning Problems: gradient descent fundamentals, linear regression with PyTorch, neural networks for non-linear data, and CPU vs GPU benchmarking
 - **`getting_started.ipynb`** - Getting Started with the Permuted MNIST Environment: meta-learning with permuted MNIST tasks, comparing random baseline vs linear classifier agents, and hyperparameter tuning
